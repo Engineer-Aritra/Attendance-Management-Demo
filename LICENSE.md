@@ -29,4 +29,4 @@ Copyright (c) 2019 - present [KoT](https://knowledgeofthings.com/)
 <br />
 
 ---
-For more information regarding licensing, please contact the AppSeed Service < *support@knowledgeofthings.com* >
+For more information regarding licensing, please contact the Service < *support@knowledgeofthings.com* >
