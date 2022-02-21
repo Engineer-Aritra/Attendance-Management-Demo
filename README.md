@@ -1,5 +1,5 @@
 ## Attendance Management Demo
-A sample web application built with Flask with Bootstrap 5 Volt template.
+A sample web application built with Flask and Bootstrap 5 Volt template.
 
 ## Installation
 
